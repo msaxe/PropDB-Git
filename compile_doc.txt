@@ -1,0 +1,3 @@
+To compile to a single exe.
+Use the spec file and the command 'pyinstaller PropertyDB_2.spec'
+Be sure that all paths are routed through paths.resource_path('some_path')
